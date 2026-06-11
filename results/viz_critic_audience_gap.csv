@@ -1,0 +1,16 @@
+genre,title_count,avg_imdb_score,avg_rt_score,critic_vs_audience_gap
+Stand-Up Comedy,69,7.05,84.77,14.26
+LGBTQ Movies,12,6.68,78.33,11.5
+Documentaries,102,7.06,82.06,11.41
+Independent Movies,142,6.29,69.46,6.55
+Music & Musicals,60,6.42,65.23,1.05
+Sports Movies,29,6.5,64.31,-0.72
+Dramas,477,6.47,63.73,-0.95
+International Movies,429,6.38,61.2,-2.62
+Thrillers,120,6.11,58.2,-2.88
+Children & Family Movies,73,5.96,56.27,-3.36
+Horror Movies,49,5.39,50.06,-3.88
+Romantic Movies,125,6.18,56.83,-4.98
+Comedies,304,6.05,54.3,-6.21
+TV Dramas,22,7.09,63.55,-7.36
+Sci-Fi & Fantasy,52,6.1,53.42,-7.54
