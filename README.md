@@ -176,7 +176,12 @@ The following data quality issues were identified and resolved prior to analysis
 Courses completed during and alongside this project:
 
 - Google Data Analytics Professional Certificate — [In Progress]
-
+    - Course 1 - Foundations: Data, Data, Everywhere (Completed 5/6/2026)
+    - Course 2 - Ask Questions to Make Data-Driven Decisions (Completed 5/8/2026)
+    - Course 3 - Prepare Data for Exploration (Completed 5/15/2026)
+    - Course 4 - Process Data from Dirty to Clean (Completed 5/22/2026)
+    - Course 5 - Analyze Data to Answer Questions (Completed 5/28/2026)
+    - Course 6 - Share Data Through the Art of Visualization (Completed 6/2/2026)
 ---
 
 ## Contact
